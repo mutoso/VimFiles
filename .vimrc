@@ -13,6 +13,7 @@ set expandtab
 set enc=utf-8
 set fileencoding=utf-8
 set fileencodings=ucs-bom,utf8,prc
+set guifont=Ubuntu_Mono:h10
 
 "nmap <C-V> "+gP
 "imap <C-V> <ESC><C-V>i
